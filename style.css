@@ -1,0 +1,9 @@
+.container {
+  background-color: aqua;
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap-reverse;
+.box {
+  width: 30%;
+  background-color: blue;
+}
